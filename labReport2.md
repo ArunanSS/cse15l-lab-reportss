@@ -30,10 +30,18 @@ Screen Shot of my Code
 
 ## Part 2
 
+1. These are my screen shots for the private key
+
+<img width="506" alt="Screenshot 2024-04-23 at 12 31 52 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/69433936-f689-49bd-8eb9-7e6ec5b48a32">
+
+2. These are my screens shots for the public key.
+
+<img width="686" alt="Screenshot 2024-04-23 at 12 35 42 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/37b6b99e-9ea0-4ece-b3f6-24c3d85a150a">
+
 3. This is me logging into ieng6 without a password
 
-<img width="770" alt="Screenshot 2024-04-22 at 11 16 08 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/4cb14d16-eca4-4746-8439-5cc07b1325e1">
-<img width="772" alt="Screenshot 2024-04-22 at 11 17 12 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/2a0757c0-6375-4a94-9185-14d9360a8990">
+<img width="593" alt="Screenshot 2024-04-23 at 12 34 38 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/2680899c-e2f0-4e2d-b217-d82acf26d62c">
+
 
 
 
