@@ -73,4 +73,7 @@ public static double averageWithoutLowest(int[] numbers) {
 ## Brief Explanation
 This method's lowest value calculation had a problemn at first. What I did to solve this is first  the least value in the array is found using an improper array issue, and this makes it into a better  computation without lowest value.
 
+### Part 2
+
+
 
