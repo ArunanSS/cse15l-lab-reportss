@@ -75,5 +75,58 @@ This method's lowest value calculation had a problemn at first. What I did to so
 
 ### Part 2
 
+1. Finding files by name:
+
+Command:
+<img width="322" alt="M" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/958f6924-6a6f-4de4-b3b9-cb751deef75b">
+
+Output:
+<img width="400" alt="" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/241bb262-2a36-4603-b370-7cb2dc343e0f">
+
+Source: "https://www.redhat.com/sysadmin/linux-find-command"
+
+
+2. Finding directories
+
+Command:
+<img width="264" alt="" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/89f72ee8-ec82-440b-ad3b-75912c7fdda7">
+
+Output:
+<img width="216" alt="" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/9d3f7657-efda-4909-8ec9-ee8ff2650b64">
+
+Source: "https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/#:~:text=cards%20as%20follows%3A-,find%20%2F%20%2Dtype%20d%20%2Dname%20%22project.,type%20d%20%2Dname%20%22project."
+
+3. This is for finding files based on size
+
+Command:
+<img width="333" alt="" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/df629d69-af2d-4d4c-a265-0af181904531">
+
+Output:
+<img width="322" alt="" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/d0f93744-2815-4934-91f0-3e53e26e12cb">
+
+Source: "https://linuxconfig.org/how-to-use-find-command-to-search-for-files-based-on-file-size"
+
+4. Finding files modified within days
+
+Command: 
+<img width="403" alt="" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/f63b3a0a-6b91-4776-94d4-47dd86675576">
+
+Output:
+<img width="404" alt="" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/6f1108ee-d375-49c7-b89d-f8fe98eb7390">
+
+Sources: "https://www.baeldung.com/linux/recently-changed-files"
+
+
+
+How ChatGPT was used to help this: 
+Prompt: What are some command line operations that I can use in linux and i inputed the examples that we had 
+Output: It gave a variety of operations, but I chose find
+
+Prompt: What are some of the command line operations that can be used with examples
+Output: I was shown about 20 different examples, chose the ones to use then modified them into how they should work
+
+Prompt: Can you explain how these outputs work in a simple way
+Output: I was show how the outputs work to overall get a better understanding of it
+
 
 
