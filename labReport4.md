@@ -14,14 +14,16 @@ The command that I used to run this was ``ssh asenthil@ieng6.ucsd.edu``, then hi
 
 Step 5
 
-<img width="516" alt="Screenshot 2024-02-27 at 8 33 07 PM" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/77175c21-8340-4cea-9a9b-34dfa56d718b">
+<img width="608" alt="Screenshot 2024-05-19 at 5 09 31 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/5e26440a-3040-4d44-842a-7fa8b11a5f6e">
 
-For this one I typed `git clone https://github.com/ucsd-cse15l-s23/lab7`, then hit `<enter>`
+
+For this one I typed `git clone https://github.com/ucsd-cse15l-s24/lab7`, then hit `<enter>`
 
 
 Step 6
 
-<img width="778" alt="Screenshot 2024-02-27 at 8 34 46 PM" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/5b6baee7-5cd8-4959-bb3c-e93e237d6dfb">
+<img width="674" alt="Screenshot 2024-05-19 at 5 11 04 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/d563f5e9-7a14-4b0c-a98b-73aabc474ac4">
+
 
 I initially typed `cd lab7` to get into that file, then hit `<enter>`
 
@@ -29,7 +31,7 @@ Following that I typed `bash test.sh` to run the tests, then hit `<enter>`
 
 Step 7
 
-<img width="677" alt="Screenshot 2024-02-27 at 8 43 54 PM" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/669b2ace-fe02-4075-b140-2fbccd652dec">
+<img width="658" alt="Screenshot 2024-05-19 at 5 13 46 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/1ba0b70f-2c58-4d0e-944d-b30154d058ed">
 
 To get into the code file I typed `vim ListExamples.java`, and then hit `<enter>`
 
@@ -43,9 +45,9 @@ I then hit `esc`, then typed `:wq`, followed by `<enter>`
 
 Step 8
 
-<img width="451" alt="Screenshot 2024-02-27 at 8 46 36 PM" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/13f1952f-2435-4c5e-9efd-ab7d88847adf">
+<img width="463" alt="Screenshot 2024-05-19 at 5 15 37 PM" src="https://github.com/ArunanSS/cse15l-lab-reportss/assets/83483462/85e07a23-6dfe-4e18-a0f8-8c269e827ffb">
 
-I just typed `vim test.sh`, then hit `<enter>`
+I just typed `bash test.sh`, then hit `<enter>`
 
 Step 9
 
