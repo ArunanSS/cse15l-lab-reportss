@@ -3,7 +3,7 @@
 
 ### Part 1
 
-Student(Nirrbhay Raghavan): Hi am having some issues with my code. I ran the practice code from cse 11 and found a terminal output that needed me to run the bash file.
+Student(Rohit Rajesh): Hi am having some issues with my code. I ran the practice code from cse 11 and found a terminal output that needed me to run the bash file.
 I see an error in the file code. I don't know where to go from here, what should be the designated output and how should I get there. Can you help me find the error and also debug it.
 
 I included photos below with my code and error message that comes with it
@@ -12,8 +12,8 @@ I included photos below with my code and error message that comes with it
 
 <img width="572" alt="Screenshot 2024-03-12 at 10 55 11 PM" src="https://github.com/ArunanSS/cse15l-lab-reports/assets/83483462/dee06473-5753-49e7-b155-c8ffe3e83d02">
 
-TA(Vikas Muruli): Hello! Don't stress buddy I'll help you out. Looking at the code that you have writen and the terminal I see an issue with the terminal file.
-Now what I don't want to give it to you,but hears a hint to think about. We talked about different errors in class, one specific ArrayIndexOutofBounds. 
+TA(Vikas Muruli): Hello! Don't stress buddy I got you. Looking at the code that you have writen and the terminal I see an issue with the terminal file.
+Now I don't want to give it to you,but hears a hint to think about. We talked about different errors in class, one specific ArrayIndexOutofBounds. 
 Now that you see the type of error, look in the code to check the lines where you get the error. To edit the file directly I want you to go to the professor's github and check
 week 7 where we went over VIM. Now can you try that out for me then send it to me again. 
 
@@ -37,4 +37,4 @@ Correction Made:
 
 ### Part 2: 
 
-I think for me the coolest thing that I had 0 background experience with before had to be VIM. It was such a cool concept, with different commands that were so powerful. Along with that there were so mant short cuts, the first class I had no clue how to even save a file and exit VIM. By the end of class I could skip lines, edit easily, and of course save and exit the file. I believe this concept was the coolest to me because it was also very simple, and I learned it based on muscle memory and practice instead of just mugging and spitting out the information. 
+I think for me the coolest thing that I had 0 background experience with before had to be VIM. It was such a cool concept, with different commands that were so powerful. Along with that there were so mant short cuts, the first class I had no clue how to even save a file and exit VIM. By the end of class I could skip lines, edit easily, and of course save and exit the file. I believe this concept was the coolest to me because it was also very simple, and I learned it based on muscle memory and practice instead of just memorizing temporarily and spitting out the information. 
